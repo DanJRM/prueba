@@ -1,2 +1,5 @@
-# prueba
-Lorem Ipsum
+# Título
+## Subtítulo
+### Subtítulo
+
+**Lorem Ipsum**
